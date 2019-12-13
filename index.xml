@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XiaoyunZhang&#39;s Blog on </title>
-    <link>https://example.com/</link>
+    <link>https://yinsyim.github.io/xiaoyunzhang.github.io/</link>
     <description>Recent content in XiaoyunZhang&#39;s Blog on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <lastBuildDate>Thu, 12 Dec 2019 23:58:02 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yinsyim.github.io/xiaoyunzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/posts/my-first-post/</link>
+      <link>https://yinsyim.github.io/xiaoyunzhang.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 12 Dec 2019 23:58:02 +0800</pubDate>
       
-      <guid>https://example.com/posts/my-first-post/</guid>
+      <guid>https://yinsyim.github.io/xiaoyunzhang.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
