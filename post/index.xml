@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章 on 小云张的博客</title>
+    <title>Articles on XiaoyunZhang&#39;s Blog</title>
     <link>https://yinsyim.github.io/xiaoyunzhang.github.io/post/</link>
-    <description>Recent content in 文章 on 小云张的博客</description>
+    <description>Recent content in Articles on XiaoyunZhang&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
@@ -18,7 +18,7 @@
       
       <guid>https://yinsyim.github.io/xiaoyunzhang.github.io/post/first/</guid>
       <description>嗯
-  </description>
+  2019.01.06 成都锦里   </description>
     </item>
     
   </channel>
