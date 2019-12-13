@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>小云张的博客</title>
-    <link>/</link>
+    <link>https://yinsyim.github.io/xiaoyunzhang.github.io/</link>
     <description>Recent content on 小云张的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yinsyim.github.io/xiaoyunzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>25岁生日礼物</title>
-      <link>/post/first/</link>
+      <link>https://yinsyim.github.io/xiaoyunzhang.github.io/post/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/first/</guid>
+      <guid>https://yinsyim.github.io/xiaoyunzhang.github.io/post/first/</guid>
       <description>嗯
   </description>
     </item>
